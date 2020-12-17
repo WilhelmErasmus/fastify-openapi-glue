@@ -30,7 +30,7 @@
     "bin": "./bin"
   },
   "devDependencies": {
-    "fastify": "^1.13.0",
+    "fastify": "^2.15.1",
     "fastify-cli": "^0.26.0",
     "tap": "^12.0.0"
   },
